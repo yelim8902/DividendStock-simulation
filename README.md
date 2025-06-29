@@ -1,8 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/686f66c0-79ca-4291-82b6-198cd7a06f6b)
-
-
-
 # 배당주 투자 시뮬레이터 (Dividend Stock Investment Simulator)
 
 ### 성장주에 투자해 자산을 크게 불릴 것인가(애플, MSFT) vs 고배당주에 투자해 안정적인 현금 흐름을 만들 것인가(QYLD, JEPI)
@@ -43,4 +39,7 @@
 3.  **목표 배당금 필요 투자금**: 월 목표 배당금을 받기 위해 종목별로 얼마를 투자해야 하는지 계산합니다.
 4.  **주가 분포 통계 요약**: 미래 주가의 평균, 변동성, 상승률, PER 등을 통해 성장 잠재력과 위험을 수치로 확인합니다.
 5.  **주가 분포 히스토그램**: 미래 주가 분포를 시각화하여 변동성의 크기를 직관적으로 파악합니다.
+
+![image](https://github.com/user-attachments/assets/59f7c946-50c0-446f-9698-5cf9f91aff2a)
+
 
