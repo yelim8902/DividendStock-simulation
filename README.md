@@ -1,4 +1,8 @@
 
+![image](https://github.com/user-attachments/assets/686f66c0-79ca-4291-82b6-198cd7a06f6b)
+
+
+
 # 배당주 투자 시뮬레이터 (Dividend Stock Investment Simulator)
 
 ### 성장주에 투자해 자산을 크게 불릴 것인가(애플, MSFT) vs 고배당주에 투자해 안정적인 현금 흐름을 만들 것인가(QYLD, JEPI)
